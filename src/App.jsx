@@ -1,14 +1,14 @@
 
 import './App.css'
+import Counter from './components/counter/counter'
 
 function App() {
 
 
-  return (
-    <>
-      <p>c</p>
-    </>
-  )
+  return  <>
+  <Counter/>
+         </>
+  
 }
 
 export default App
